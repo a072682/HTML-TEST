@@ -1,0 +1,20 @@
+https://www.figma.com/design/leaRKUhOGYRsWkzlarKh73/2023-%E5%88%87%E7%89%88%E5%A4%8F%E5%AD%A3%E7%8F%AD-W2---%E5%80%8B%E4%BA%BA%E7%B6%B2%E9%A0%81-(Copy)
+
+圖片網址:
+Rectangle10:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/Rectangle%2010.png?raw=true
+Rectangle14:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/Rectangle%2014.png?raw=true
+Rectangle15:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/Rectangle%2015.png?raw=true
+Rectangle29:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/Rectangle%2029.png?raw=true
+arrow_outward-white:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/arrow_outward-white.png?raw=true
+arrow_outward:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/arrow_outward.png?raw=true
+arrow_outward:https://raw.githubusercontent.com/hexschool/2022-web-layout-training/9f843c654f4bbfb95e6ab2eaf0c5a42f2c3c6205/2023week2/arrow_outward.svg
+background-img:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/background-img.png?raw=true
+discord:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/discord.png?raw=true
+instagram:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/instagram.png?raw=true
+message:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/message.png?raw=true
+people-2:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/people-2.png?raw=true
+people:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/people.png?raw=true
+photographer:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/photographer.png?raw=true
+sparkle-sm:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/sparkle-sm.png?raw=true
+sparkle:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/sparkle.png?raw=true
+trending_flat_black_24dp 1:https://github.com/hexschool/2022-web-layout-training/blob/main/2023week2/trending_flat_black_24dp%201.png?raw=true
