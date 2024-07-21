@@ -1,0 +1,44 @@
+body{
+    font-size: 16px;
+    line-height: 1.5;
+}
+.container{
+    width: 640px;
+    margin: 0 auto;
+}
+.con-img{
+    width: 96px;
+    height: 96px;
+    margin-right: 20px;
+    margin-bottom: 24px;
+}
+.con-img img,.wrap-img img{
+    display: block;
+    min-width:100%;
+}
+.wrap ,.wrap-con,.con1-title{
+    display: flex;
+}
+.con1-text,.con2-text{
+    width: 288px;
+}
+.con1-title{
+    align-items: baseline;
+}
+.con1-title h1,.con2-text h2{
+    font-size: 20px;
+    line-height: 1.2;
+}
+.con1-title p{
+    font-size: 12px;
+    line-height: 1.2;
+}
+.wrap-img{
+    width: 216px;
+    height: 216px;
+    margin-left: 20px;
+}
+footer{
+    padding: 48px 0;
+    text-align: center;
+}
