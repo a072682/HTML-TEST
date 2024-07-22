@@ -28,6 +28,9 @@ body{
     justify-content: space-between;
     align-items: center;
 }
+.nav-box-in a{
+    text-decoration: none;
+}
 .nav-box-in p{
     color:#D1D1D1;
 }
